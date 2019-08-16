@@ -19,5 +19,6 @@
         <activity android:name=".SignupActivity" android:label="@string/action_signUp" />
         <activity android:name=".MemoActivity" android:label="@string/action_memo" />
     </application>
+    <uses-permission android:name="android.permission.INTERNET" />
 
 </manifest>
